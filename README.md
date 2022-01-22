@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+<head>
+  <title> A webpage with potential<title>
+    </head>
+## Welcome to my website
+my name is bryant collins i'm a cs major, also im a junior.
 
-You can use the [editor on GitHub](https://github.com/daprvnce/my-first-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
