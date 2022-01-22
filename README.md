@@ -19,7 +19,7 @@ Syntax highlighted code block
 -  if you wanted games systems like your PS2, PS3, PSP, & MORE software modded I can be the one to assist :)
 -  if you need your Iphone fixed I charge great prices :) 
 
-<p><img align=”right” src=” “ width=”500” height=”320” /></p>
+
 
 thanks agains for visiting
 
