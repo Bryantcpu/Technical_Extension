@@ -23,11 +23,11 @@
 
 Congrats you made it this far, here is some shortcut links to some great websites
 
--🌟 [Lets go to youtube](https://www.youtube.com/)
+-🌟 [Youtube](https://www.youtube.com/)
 
--🌟 https://www.amazon.com/ref=nav_logo
+-🌟 [Amazon](https://www.amazon.com/ref=nav_logo)
 
--🌟 https://www.crunchyroll.com/ 
+-🌟 [Crunchyroll](https://www.crunchyroll.com/)
 
 
 **👋Thanks again for visiting**
