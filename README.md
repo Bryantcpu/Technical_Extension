@@ -17,12 +17,12 @@ Syntax highlighted code block
 ### Fixing Iphones.
 #### Spending time with my family.
 ##### Visitng back home in the Bahamas.
--  if you wanted games systems like your PS2, PS3, PSP, & MORE software modded I can be the one to assist :)
--  if you need your Iphone fixed I charge great prices :) 
+-  If you want your game systems like your PS2, PS3, PSP, & MORE software modded I can be the one to assist :)
+-  If you need your Iphone fixed I charge great prices :) 
 
 
 
-thanks agains for visiting
+**Thanks agains for visiting**
 
 
 
