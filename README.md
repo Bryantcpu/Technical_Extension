@@ -1,10 +1,8 @@
-# A webpage with potential...
-👋Hello, world! Welcome to my website :)
-# 🔥My name is Bryant Collins
--  I'm a cs major,
--  Also im a junior.
--  22 years old
--  👉z23616184👈
+# An informative site with Info...
+👋Hello, world! Welcome to my website
+# My name is Bryant Collins
+- 23 years old
+-
 
 # Hobbies
 
@@ -12,16 +10,14 @@
 
 
 
-
-### 🏀Basketball
-### 💻Modding video game software.
-### ☎️Fixing Iphones.
-### 👪Spending time with my family.
-### 🌴Visitng back home in the Bahamas.
--  If you want your game systems like your PS2, PS3, PSP, & MORE software modded I can be the one to assist :)❗
+### -Modding video game software.
+### -Fixing Apple devices.
+### -Spending time with my family.
+### -Visitng back home in the Bahamas.
+-  If you want your game systems like your PS2, PS3, PSP, & more software modded I can be the one to assist :)❗
 -  If you need your Iphone fixed I charge great prices :)❗ 
 
-Congrats you made it this far, here is some shortcut links to some great websites
+If your reading this that means you made it to the end if the site, here are some shortcut links to some great websites..
 
 -🌟 [Youtube](https://www.youtube.com/)
 
