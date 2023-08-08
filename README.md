@@ -1,10 +1,11 @@
 # An informative site with Info...
 👋Hello, world! Welcome to my website
 # My name is Bryant Collins
-- 23 years old
--
+ ![Alt text](https://media.licdn.com/dms/image/D4E03AQFim5hEdSQhIw/profile-displayphoto-shrink_800_800/0/1691515718587?e=1697068800&v=beta&t=SqECLknW3O1QdGcCXE8hTXyuCZgW6pFq7xrwb6hlwjo)
 
-# Hobbies
+
+# Resume Linked Below 
+[Resume](https://drive.google.com/file/d/14aWZ25HazJqbo4tyixaJI1Q2shf3_hfV/view?usp=drive_link)
 
 
 
